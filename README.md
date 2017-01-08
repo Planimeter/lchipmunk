@@ -2,15 +2,12 @@
 LuaJIT FFI bindings for Chipmunk
 
 ## Install
-
 ### macOS
-
 ```bash
 brew install chipmunk
 ```
 
 ## License
-
 The MIT License
 
 Copyright (c) 2017 Planimeter. http://planimeter.org
